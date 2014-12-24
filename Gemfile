@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 4.2.1'
 
 
 gem 'rails', '4.1.8'
