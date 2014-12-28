@@ -5,6 +5,9 @@ gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.1'
 gem 'bootstrap-sass', '~> 3.3.1.0'
 gem 'better_errors', '~> 2.0.0'
+gem 'searchkick', '~> 0.8.5'
+gem 'foundation-rails'
+gem "font-awesome-rails"
 
 gem 'rails', '4.1.8'
 gem 'sqlite3'
