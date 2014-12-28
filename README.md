@@ -4,5 +4,5 @@ Movify is simple application which let you to create movies reviews and add some
 
 Fork -> Run -> Share
 
-![alt tag](https://github.com/aruzmeister/pinty/blob/master/movify.png)
+![alt tag](https://github.com/aruzmeister/Movify/blob/master/movify.png)
 
